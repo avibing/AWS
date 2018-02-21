@@ -19,6 +19,8 @@ To install the AWS CLI with pip (Windows)
 
 >Install the EB CLI using pip/easy_install.
 
+//**Enable to aws eb plugin to push the application.
+//**If this plugin is not installed, you cannot push the application and code.
 >Issue the below command:C:\Python6> pip install awsebcli --upgrade --user
 
 >After installation check eb using below command :eb --version
