@@ -1,0 +1,24 @@
+C:\Users\akumar46\AppData\Local\Programs\Python\Python36-32
+
+aws is bundled with python also
+
+C:\Program Files\Amazon\AWSCLI\
+
+
+
+aws configure 
+IAM
+Users
+Security Credentials
+
+ My Billing dashboard -- 
+ ----------------------------
+ Elastic Bean Stalk
+   --- 
+   
+   Go to C:\Users\akumar46\AppData\Local\Programs\Python\Python36-321\Scripts
+   click on easy_install
+   
+   
+   
+   

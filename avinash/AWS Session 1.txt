@@ -1,0 +1,50 @@
+https://github.com/vasu34k123/AWS
+
+https://880065577234.signin.aws.amazon.com/console
+
+we can use docker in aws
+
+Storage -> S3, EFS, EBC
+
+EC2 - Virtual Server
+
+Security -> IAM
+
+Single-tenancy and Multi-tenancy
+
+aws cloudfront -- content-management system
+
+Paid AMI - Some Image
+
+Operating System - Spot Instances
+
+aws cors service
+
+aws messaging service 
+
+aws directory services -- For LDAP Integration
+
+currently our data centre is US east 2
+
+multifactor authentication [ MFA ] captcha
+
+services -> IAM services -> Dashboard -> Users -> select yr user -> Security Credentials- ->
+Click on "Assigned MFA device"
+=================
+Click on "Access Advisor"
+
+AWS Credentials: user9 / @Kruti1234
+************************************************************
+IAM User:
+user9
+Account:
+8800-6557-7234
+My Account
+My Organization
+My Billing Dashboard
+My Security Credentials
+Switch Role
+Sign Out
+********************************************************
+
+

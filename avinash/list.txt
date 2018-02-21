@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                      ListUsers                                                                     |
++----------------------------------------------------------------------------------------------------------------------------------------------------+
+||                                                                       Users                                                                      ||
+|+-----------------------------------------------+-----------------------+-----------------------+-------+------------------------+-----------------+|
+||                      Arn                      |      CreateDate       |   PasswordLastUsed    | Path  |        UserId          |    UserName     ||
+|+-----------------------------------------------+-----------------------+-----------------------+-------+------------------------+-----------------+|
+||  arn:aws:iam::880065577234:user/Abhishek      |  2017-12-19T06:08:53Z |  2017-12-30T13:31:44Z |  /    |  AIDAISZSZVNE3Q5G7D3FK |  Abhishek       ||
+||  arn:aws:iam::880065577234:user/associate     |  2017-12-28T10:05:43Z |  2018-02-09T12:22:55Z |  /    |  AIDAJGO6UYPH6QSGUVYWK |  associate      ||
+||  arn:aws:iam::880065577234:user/Sanjay        |  2018-02-14T12:18:08Z |  2018-02-21T04:34:02Z |  /    |  AIDAI5BR7DYPGXE52SYQW |  Sanjay         ||
+||  arn:aws:iam::880065577234:user/Srinivas      |  2017-12-19T06:08:53Z |  2018-02-21T09:03:17Z |  /    |  AIDAJD5VPAN7AWVZAIDO6 |  Srinivas       ||
+||  arn:aws:iam::880065577234:user/user1         |  2018-02-20T08:42:25Z |  2018-02-21T09:04:51Z |  /    |  AIDAIHQFH7HG6G4DF2GQK |  user1          ||
+||  arn:aws:iam::880065577234:user/user10        |  2018-02-20T10:22:40Z |  2018-02-21T08:56:34Z |  /    |  AIDAJQETZOF7L3RM25A52 |  user10         ||
+||  arn:aws:iam::880065577234:user/user11        |  2018-02-20T10:22:39Z |  2018-02-21T09:02:44Z |  /    |  AIDAJHZYINHMDN6WR76U6 |  user11         ||
+||  arn:aws:iam::880065577234:user/user12        |  2018-02-20T10:22:39Z |  2018-02-21T09:04:02Z |  /    |  AIDAJPPIVN4KJS32XP4HC |  user12         ||
+||  arn:aws:iam::880065577234:user/user13        |  2018-02-20T10:22:40Z |  2018-02-21T08:51:45Z |  /    |  AIDAJKQUFPG5IA334L2OW |  user13         ||
+||  arn:aws:iam::880065577234:user/user14        |  2018-02-20T10:22:40Z |  2018-02-20T10:22:59Z |  /    |  AIDAIK6TZVAIRAU4LIRTW |  user14         ||
+||  arn:aws:iam::880065577234:user/user15        |  2018-02-20T10:22:40Z |                       |  /    |  AIDAJVOBZISAN5GF5QYW2 |  user15         ||
+||  arn:aws:iam::880065577234:user/user16        |  2018-02-20T10:22:40Z |  2018-02-20T10:23:15Z |  /    |  AIDAI4JKAQGZEKK2KEQUA |  user16         ||
+||  arn:aws:iam::880065577234:user/user17        |  2018-02-20T10:24:33Z |  2018-02-21T09:03:15Z |  /    |  AIDAJX3OZRMCYWU34E43S |  user17         ||
+||  arn:aws:iam::880065577234:user/user18        |  2018-02-20T10:24:33Z |  2018-02-21T09:20:50Z |  /    |  AIDAJZNPMBWCJR74GAV26 |  user18         ||
+||  arn:aws:iam::880065577234:user/user19        |  2018-02-20T10:24:33Z |  2018-02-21T09:51:03Z |  /    |  AIDAJ7BDQPZ2RYY5JQVMA |  user19         ||
+||  arn:aws:iam::880065577234:user/user2         |  2018-02-20T10:15:32Z |  2018-02-21T05:49:56Z |  /    |  AIDAJYKAWEIDADBW4CON2 |  user2          ||
+||  arn:aws:iam::880065577234:user/user20        |  2018-02-20T10:24:33Z |  2018-02-21T09:04:21Z |  /    |  AIDAJVU6SLOXPVBVWZHXK |  user20         ||
+||  arn:aws:iam::880065577234:user/user21        |  2018-02-20T10:24:33Z |  2018-02-20T10:24:48Z |  /    |  AIDAJRW7TV7YNU26XBVKO |  user21         ||
+||  arn:aws:iam::880065577234:user/user22        |  2018-02-20T10:24:33Z |  2018-02-20T10:26:47Z |  /    |  AIDAIKJC7FU32ES4RTSVM |  user22         ||
+||  arn:aws:iam::880065577234:user/user23        |  2018-02-20T10:24:33Z |  2018-02-21T08:53:07Z |  /    |  AIDAJVCGNCFHBLV7U2DCE |  user23         ||
+||  arn:aws:iam::880065577234:user/user3         |  2018-02-20T10:19:26Z |  2018-02-21T09:03:26Z |  /    |  AIDAICYGW3UZZENEQW34U |  user3          ||
+||  arn:aws:iam::880065577234:user/user4         |  2018-02-20T10:19:27Z |  2018-02-21T09:04:42Z |  /    |  AIDAJ5BAEUCJTQARPO66Y |  user4          ||
+||  arn:aws:iam::880065577234:user/user5         |  2018-02-20T10:19:27Z |  2018-02-21T09:08:48Z |  /    |  AIDAIQWMQYXJB2UZ5VSTI |  user5          ||
+||  arn:aws:iam::880065577234:user/user6         |  2018-02-20T10:19:27Z |                       |  /    |  AIDAJTFBQEMLMPNXSBN2Q |  user6          ||
+||  arn:aws:iam::880065577234:user/user7         |  2018-02-20T10:22:39Z |  2018-02-20T10:23:06Z |  /    |  AIDAITP2BXB2BMWWXOU3A |  user7          ||
+||  arn:aws:iam::880065577234:user/user8         |  2018-02-20T10:22:40Z |  2018-02-20T10:24:58Z |  /    |  AIDAJJUUYUSHSZB6JWQDQ |  user8          ||
+||  arn:aws:iam::880065577234:user/user9         |  2018-02-20T10:22:39Z |  2018-02-21T08:52:15Z |  /    |  AIDAIMZALPS3ZLZSYJMVQ |  user9          ||
+||  arn:aws:iam::880065577234:user/Vijayalakshmi |  2017-12-19T08:46:05Z |  2018-02-19T06:24:02Z |  /    |  AIDAIGXFFUFKLDCXJXR7W |  Vijayalakshmi  ||
+|+-----------------------------------------------+-----------------------+-----------------------+-------+------------------------+-----------------+|
